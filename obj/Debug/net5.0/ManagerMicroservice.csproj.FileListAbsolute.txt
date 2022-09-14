@@ -1,0 +1,249 @@
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.AssemblyReference.cache
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.AssemblyInfoInputs.cache
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.AssemblyInfo.cs
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.exe
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.deps.json
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.runtimeconfig.json
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.runtimeconfig.dev.json
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\ref\ManagerMicroservice.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.pdb
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\staticwebassets\ManagerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\staticwebassets\ManagerMicroservice.StaticWebAssets.xml
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\scopedcss\bundle\ManagerMicroservice.styles.css
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.CopyComplete
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ref\ManagerMicroservice.dll
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.pdb
+C:\Users\2146303\OneDrive - Cognizant\Desktop\MFPE\Real Estate Management System\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.genruntimeconfig.cache
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.StaticWebAssets.xml
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.exe
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.deps.json
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.runtimeconfig.json
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.runtimeconfig.dev.json
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\ref\ManagerMicroservice.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.pdb
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.AssemblyReference.cache
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.AssemblyInfoInputs.cache
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.AssemblyInfo.cs
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\scopedcss\bundle\ManagerMicroservice.styles.css
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\staticwebassets\ManagerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.CopyComplete
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ref\ManagerMicroservice.dll
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.pdb
+C:\Users\2145426\Downloads\3 micro services\REMS\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.genruntimeconfig.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.exe
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.deps.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.runtimeconfig.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.runtimeconfig.dev.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\ref\ManagerMicroservice.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.AssemblyReference.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.AssemblyInfoInputs.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.AssemblyInfo.cs
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\staticwebassets\ManagerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\staticwebassets\ManagerMicroservice.StaticWebAssets.xml
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\scopedcss\bundle\ManagerMicroservice.styles.css
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.CopyComplete
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ref\ManagerMicroservice.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.genruntimeconfig.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.AssemblyReference.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.AssemblyInfoInputs.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.AssemblyInfo.cs
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ref\ManagerMicroservice.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.exe
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.deps.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.runtimeconfig.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.runtimeconfig.dev.json
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\ref\ManagerMicroservice.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\ManagerMicroservice.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Elasticsearch.Net.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Nest.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\System.Management.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\staticwebassets\ManagerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\staticwebassets\ManagerMicroservice.StaticWebAssets.xml
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\scopedcss\bundle\ManagerMicroservice.styles.css
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.csproj.CopyComplete
+C:\Users\2145707\OneDrive - Cognizant\Documents\MFPE project\New folder\ManagerMicroservice\obj\Debug\net5.0\ManagerMicroservice.genruntimeconfig.cache
